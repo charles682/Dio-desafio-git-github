@@ -1,0 +1,11 @@
+Desafio do Git/Github:
+ 
+ Passo a passo de como clonar e alterar no projeto :
+  
+ 1-Clonar no git
+ 2- Abrir o git Bash 
+ 3- "git clone 'copiar o linj do github'" 
+ 4- "Cd 'copiar a massa' " 
+ 5- "git add " = Para enviar as alterações(local)
+ 6- "git commit -m 'comentario da alteração' " 
+ 7- "Git push origin (principal) ou (mestre)

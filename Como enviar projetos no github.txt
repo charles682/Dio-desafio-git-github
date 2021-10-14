@@ -1,0 +1,8 @@
+  Passo a passo de como adicionar um novo repositorio no Github: 
+
+ 1- Primeiro abir o 'Git Bash' na massa onde será enviado os arquivos. 
+ 2- 'git init' = Para criar um repositorio git dentro da massa
+ 3- 'git add . '= Para adicionar os arquivos para ser enviados 
+ 4- 'git commit -m 'first comit' ' 
+ 5- 'git remoto adicionar origem 'Copiar o link do repositorio'
+ 6- 'git push -u origem master' = Envio dos arquivos no github.
